@@ -26,5 +26,5 @@ tech cross-linker are first.
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/victortolbert/)
-- [@designcoder](https://www.instagram.com/designcoder/) — short clips of the labs
+- [@design_coder](https://www.instagram.com/design_coder/) — short clips of the labs
 - hello@uxlab.tools
